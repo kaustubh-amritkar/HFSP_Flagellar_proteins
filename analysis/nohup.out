@@ -1,0 +1,513 @@
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+curl: (22) The requested URL returned error: 500 Internal Server Error
+ ERROR:  curl command failed ( Wed 06 Sep 2023 04:02:40 PM CDT ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?query_key=4&WebEnv=MCID_64f8e8ea4cb39934e32afd0c&retstart=0&retmax=1&db=nuccore&rettype=uilist&retmode=text&tool=edirect&edirect=16.2&edirect_os=Linux&email=kaustubh%40case
+ WARNING:  FAILURE ( Wed 06 Sep 2023 04:02:39 PM CDT )
+nquire -get https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ esearch.fcgi -query_key 4 -WebEnv MCID_64f8e8ea4cb39934e32afd0c -retstart 0 -retmax 1 -db nuccore -rettype uilist -retmode text -tool edirect -edirect 16.2 -edirect_os Linux -email kaustubh@case
+EMPTY RESULT
+SECOND ATTEMPT
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+curl: (22) The requested URL returned error: 429 Too Many Requests
+ ERROR:  curl command failed ( Wed 06 Sep 2023 04:04:41 PM CDT ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=nuccore&WebEnv=MCID_64f8e967c73d984f1052ca95&term=%28%233%29&retmax=0&usehistory=y&tool=edirect&edirect=16.2&edirect_os=Linux&email=kaustubh%40case
+ WARNING:  FAILURE ( Wed 06 Sep 2023 04:04:41 PM CDT )
+nquire -get https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ esearch.fcgi -db nuccore -WebEnv MCID_64f8e967c73d984f1052ca95 -term \(\#3\) -retmax 0 -usehistory y -tool edirect -edirect 16.2 -edirect_os Linux -email kaustubh@case
+EMPTY RESULT
+SECOND ATTEMPT
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+curl: (22) The requested URL returned error: 502 Bad Gateway
+ ERROR:  curl command failed ( Wed 06 Sep 2023 04:08:49 PM CDT ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=nuccore&WebEnv=MCID_64f8ea5dfa8062475f727a0e&term=%28%233%29&retmax=0&usehistory=y&tool=edirect&edirect=16.2&edirect_os=Linux&email=kaustubh%40case
+ WARNING:  FAILURE ( Wed 06 Sep 2023 04:08:49 PM CDT )
+nquire -get https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ esearch.fcgi -db nuccore -WebEnv MCID_64f8ea5dfa8062475f727a0e -term \(\#3\) -retmax 0 -usehistory y -tool edirect -edirect 16.2 -edirect_os Linux -email kaustubh@case
+EMPTY RESULT
+SECOND ATTEMPT
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+curl: (22) The requested URL returned error: 500 Internal Server Error
+ ERROR:  curl command failed ( Wed 06 Sep 2023 04:12:37 PM CDT ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?query_key=4&WebEnv=MCID_64f8eb4273cf0e27027ca13a&retstart=0&retmax=1&db=nuccore&rettype=uilist&retmode=text&tool=edirect&edirect=16.2&edirect_os=Linux&email=kaustubh%40case
+ WARNING:  FAILURE ( Wed 06 Sep 2023 04:12:36 PM CDT )
+nquire -get https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ esearch.fcgi -query_key 4 -WebEnv MCID_64f8eb4273cf0e27027ca13a -retstart 0 -retmax 1 -db nuccore -rettype uilist -retmode text -tool edirect -edirect 16.2 -edirect_os Linux -email kaustubh@case
+EMPTY RESULT
+SECOND ATTEMPT
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+curl: (22) The requested URL returned error: 429 Too Many Requests
+ ERROR:  curl command failed ( Wed 06 Sep 2023 04:33:36 PM CDT ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=nuccore&WebEnv=MCID_64f8f02e6fe497415f1ce859&term=%28%233%29&retmax=0&usehistory=y&tool=edirect&edirect=16.2&edirect_os=Linux&email=kaustubh%40case
+ WARNING:  FAILURE ( Wed 06 Sep 2023 04:33:36 PM CDT )
+nquire -get https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ esearch.fcgi -db nuccore -WebEnv MCID_64f8f02e6fe497415f1ce859 -term \(\#3\) -retmax 0 -usehistory y -tool edirect -edirect 16.2 -edirect_os Linux -email kaustubh@case
+EMPTY RESULT
+SECOND ATTEMPT
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+curl: (22) The requested URL returned error: 429 Too Many Requests
+ ERROR:  curl command failed ( Wed 06 Sep 2023 04:34:06 PM CDT ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi -d retmax=0&usehistory=y&db=protein&term=ADL00174.1&tool=edirect&edirect=16.2&edirect_os=Linux&email=kaustubh%40case
+ WARNING:  FAILURE ( Wed 06 Sep 2023 04:34:06 PM CDT )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ esearch.fcgi -retmax 0 -usehistory y -db protein -term ADL00174.1 -tool edirect -edirect 16.2 -edirect_os Linux -email kaustubh@case
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 429 Too Many Requests
+ ERROR:  curl command failed ( Wed 06 Sep 2023 04:34:12 PM CDT ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi -d query_key=7&WebEnv=MCID_64f8f050702c557f1f7f918f&retstart=0&retmax=1&db=assembly&version=2.0&retmode=xml&tool=edirect&edirect=16.2&edirect_os=Linux&email=kaustubh%40case
+ WARNING:  FAILURE ( Wed 06 Sep 2023 04:34:12 PM CDT )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ esummary.fcgi -query_key 7 -WebEnv MCID_64f8f050702c557f1f7f918f -retstart 0 -retmax 1 -db assembly -version 2.0 -retmode xml -tool edirect -edirect 16.2 -edirect_os Linux -email kaustubh@case
+EMPTY RESULT
+SECOND ATTEMPT
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+curl: (22) The requested URL returned error: 429 Too Many Requests
+ ERROR:  curl command failed ( Wed 06 Sep 2023 04:39:26 PM CDT ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi -d id=1406953194&WebEnv=MCID_64f8f18cfabd25535a46c311&dbfrom=protein&db=nuccore&cmd=neighbor_history&linkname=protein_nuccore&tool=edirect&edirect=16.2&edirect_os=Linux&email=kaustubh%40case
+ WARNING:  FAILURE ( Wed 06 Sep 2023 04:39:25 PM CDT )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ elink.fcgi -id 1406953194 -WebEnv MCID_64f8f18cfabd25535a46c311 -dbfrom protein -db nuccore -cmd neighbor_history -linkname protein_nuccore -tool edirect -edirect 16.2 -edirect_os Linux -email kaustubh@case
+EMPTY RESULT
+SECOND ATTEMPT
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+curl: (22) The requested URL returned error: 429 Too Many Requests
+ ERROR:  curl command failed ( Wed 06 Sep 2023 04:40:22 PM CDT ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi -d id=1243404978&WebEnv=MCID_64f8f1c3af604d3ec13a1052&dbfrom=nuccore&db=assembly&cmd=neighbor_history&linkname=nuccore_assembly&tool=edirect&edirect=16.2&edirect_os=Linux&email=kaustubh%40case
+ WARNING:  FAILURE ( Wed 06 Sep 2023 04:40:22 PM CDT )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ elink.fcgi -id 1243404978 -WebEnv MCID_64f8f1c3af604d3ec13a1052 -dbfrom nuccore -db assembly -cmd neighbor_history -linkname nuccore_assembly -tool edirect -edirect 16.2 -edirect_os Linux -email kaustubh@case
+EMPTY RESULT
+SECOND ATTEMPT
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+curl: (22) The requested URL returned error: 500 Internal Server Error
+ ERROR:  curl command failed ( Wed 06 Sep 2023 04:41:26 PM CDT ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?query_key=4&WebEnv=MCID_64f8f2034e8d7849b565a8ce&retstart=0&retmax=1&db=nuccore&rettype=uilist&retmode=text&tool=edirect&edirect=16.2&edirect_os=Linux&email=kaustubh%40case
+ WARNING:  FAILURE ( Wed 06 Sep 2023 04:41:26 PM CDT )
+nquire -get https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ esearch.fcgi -query_key 4 -WebEnv MCID_64f8f2034e8d7849b565a8ce -retstart 0 -retmax 1 -db nuccore -rettype uilist -retmode text -tool edirect -edirect 16.2 -edirect_os Linux -email kaustubh@case
+EMPTY RESULT
+SECOND ATTEMPT
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: -: Bad file descriptor
